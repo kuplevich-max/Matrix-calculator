@@ -1,0 +1,13 @@
+﻿  EquationForm.cpp
+  Functions.cpp
+d:\programming\курсовая\matrix\matrix\functions.cpp(134): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+d:\programming\курсовая\matrix\matrix\functions.cpp(185): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Matrixs.cpp
+  MyForm.cpp
+  Создание кода...
+d:\programming\курсовая\matrix\matrix\myform.cpp(199): warning C4715: Matrix::MyForm::NewList: значение возвращается не при всех путях выполнения
+d:\programming\курсовая\matrix\matrix\matrixs.cpp(64): warning C4715: Matrixs::GetMatrix1: значение возвращается не при всех путях выполнения
+d:\programming\курсовая\matrix\matrix\matrixs.cpp(72): warning C4715: Matrixs::GetMatrix2: значение возвращается не при всех путях выполнения
+  .NETFramework,Version=v4.7.AssemblyAttributes.cpp
+  EquationForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Matrix.vcxproj -> D:\Programming\Курсовая\Matrix\Debug\Matrix.exe
